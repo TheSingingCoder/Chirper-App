@@ -280,3 +280,10 @@ img{
 .tar_download_link:hover {
   background: url(../images/sprite_download.png) no-repeat top right;
 }
+
+.inner {
+  position: relative;
+  max-width: 640px;
+  padding: 20px 10px;
+  margin: 0 auto;
+}
