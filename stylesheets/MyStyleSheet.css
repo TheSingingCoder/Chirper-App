@@ -262,7 +262,7 @@ img{
   background: url(../images/sprite_download.png) no-repeat bottom left;
 }
 .tar_download_link {
-  display: block;
+  display: inline-block;
   float: right;
   width: 90px;
   height:70px;
