@@ -231,7 +231,8 @@ img{
   display: inline-block;
   //position: absolute;
   top:0;
-  right: 10px;
+  margin-left: 10px;
+  margin-right: 20px;
   z-index: 10;
   padding: 10px 50px 10px 10px;
   color: #fff;
@@ -247,7 +248,7 @@ img{
   width: 210px;
   z-index: 10;
   bottom: -40px;
-  right: 0;
+  right: 10px;
   height: 70px;
   background: url('../images/icon_download.png') no-repeat 0% 90%;
 }
