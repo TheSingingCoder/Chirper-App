@@ -242,7 +242,7 @@ img{
   border-bottom-right-radius: 2px;
 }
 
-.downloads {
+#downloads {
   //position: absolute;
   width: 210px;
   z-index: 10;
