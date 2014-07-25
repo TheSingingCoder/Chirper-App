@@ -292,7 +292,7 @@ img{
 }
 
 #footer_wrap {
-  height: 30px;
+  margin-top: 30px;
   position: absolute;
   margin-bottom: 0px;
   background: #212121;
