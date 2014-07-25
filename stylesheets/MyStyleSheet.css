@@ -228,8 +228,8 @@ img{
 }
 
 #forkme_banner {
-  display: block;
-  position: absolute;
+  display: inline-block;
+  //position: absolute;
   top:0;
   right: 10px;
   z-index: 10;
@@ -253,7 +253,7 @@ img{
 }
 
 .zip_download_link {
-  display: block;
+  display: inline-block;
   float: right;
   width: 90px;
   height:70px;
