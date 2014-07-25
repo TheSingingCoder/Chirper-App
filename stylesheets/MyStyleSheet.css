@@ -288,10 +288,11 @@ img{
   margin-top: 30px;
   margin-bottom: 0px;
   color: white;
+  text-align: center;
 }
 
 #footer_wrap {
-  //position: absolute;
+  position: absolute;
   margin-bottom: 0px;
   background: #212121;
   width: 100%;
