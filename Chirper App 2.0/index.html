@@ -1,0 +1,67 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Chirper App</title>
+    <link href="Content/font-awesome.css" rel="stylesheet" />
+    <link href="Content/bootstrap.css" rel="stylesheet" />
+    <link href="Content/_stylesheet.css" rel="stylesheet" />
+</head>
+<body id="body" class="well">
+    <div class="container" id="container">
+        <div class="row clearfix">
+            <div class="col-md-12 column">
+                <div class="row clearfix">
+                    <div class="col-md-12 column" id="headerDiv">
+                        <h1 id="header"><i class="fa fa-twitter"></i>&nbsp;Chirper</h1>
+                        <ul class="nav nav-pills" id="navbar">
+                            <li class="nav-text"><a onclick="ChApp.addNewChirp();">New Chirp</a></li>
+                            <li class="nav-text"><a onclick="ChApp.getMyProfile();">My Profile</a></li>
+                            <li class="nav-text"><a onclick="ChApp.createTimeline();">Timeline</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="row clearfix" id="upperDiv">
+                    <div class="col-md-12 column">
+                        <div class="row clearfix">
+                            <div id="profileDiv" class="col-md-2 column">
+                            </div>
+                            <div class="col-md-8 column">
+                                <div id="messageDiv">
+                                    <h3>&nbsp;&nbsp;<i class="fa fa-cog fa-spin"></i> Loading... </h3>
+                                </div>
+                            </div>
+                            <div class="col-md-2 column" id="right-div">
+                                <div class="col-md-2 column" id="friendsDiv">
+                                    <h2>&nbsp;&nbsp;<i class="fa fa-cog fa-spin"></i> Loading... </h2>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!---Timeline Modal-->
+    <div class="modal fade" id="modal-timeline">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                    <h3 class="modal-title"><span id="modal-title">Title</span></h3>
+                </div>
+                <div class="modal-body" id="modal-table"></div>
+                <div class="modal-body" id="modalBody">
+                    <p>One fine body&hellip;</p>
+                </div>
+                <div class="modal-footer" id="modal-buttons">
+                </div>
+            </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+
+    <script src="Scripts/jquery-1.9.1.js"></script>
+    <script src="Scripts/bootstrap.js"></script>
+    <script src="Scripts/_javascript.js"></script>
+</body>
+</html>

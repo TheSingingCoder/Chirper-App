@@ -1,0 +1,12 @@
+c:\users\allison\documents\visual studio 2013\Projects\Chirper App 2.0\Chirper App 2.0\bin\Chirper App 2.0.dll.config
+c:\users\allison\documents\visual studio 2013\Projects\Chirper App 2.0\Chirper App 2.0\bin\Chirper App 2.0.dll
+c:\users\allison\documents\visual studio 2013\Projects\Chirper App 2.0\Chirper App 2.0\bin\Chirper App 2.0.pdb
+c:\users\allison\documents\visual studio 2013\Projects\Chirper App 2.0\Chirper App 2.0\obj\Debug\Chirper App 2.0.csprojResolveAssemblyReference.cache
+c:\users\allison\documents\visual studio 2013\Projects\Chirper App 2.0\Chirper App 2.0\obj\Debug\Chirper App 2.0.dll
+c:\users\allison\documents\visual studio 2013\Projects\Chirper App 2.0\Chirper App 2.0\obj\Debug\Chirper App 2.0.pdb
+C:\Users\Allison\Documents\Visual Studio 2013\Projects\Chirper App- GitHub\Chirper App 2.0\bin\Chirper App 2.0.dll.config
+C:\Users\Allison\Documents\Visual Studio 2013\Projects\Chirper App- GitHub\Chirper App 2.0\bin\Chirper App 2.0.dll
+C:\Users\Allison\Documents\Visual Studio 2013\Projects\Chirper App- GitHub\Chirper App 2.0\bin\Chirper App 2.0.pdb
+C:\Users\Allison\Documents\Visual Studio 2013\Projects\Chirper App- GitHub\Chirper App 2.0\obj\Debug\Chirper App 2.0.csprojResolveAssemblyReference.cache
+C:\Users\Allison\Documents\Visual Studio 2013\Projects\Chirper App- GitHub\Chirper App 2.0\obj\Debug\Chirper App 2.0.dll
+C:\Users\Allison\Documents\Visual Studio 2013\Projects\Chirper App- GitHub\Chirper App 2.0\obj\Debug\Chirper App 2.0.pdb
